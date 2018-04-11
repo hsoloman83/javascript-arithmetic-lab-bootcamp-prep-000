@@ -15,5 +15,5 @@ function divide(a, b) {
 }
 
 function increments (a){
-  return a += 1
+  return a++
 }
